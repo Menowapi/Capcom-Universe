@@ -15,6 +15,13 @@
                         "sha256":  "B2F3EB3EFD3BED19D5ED99D00A76BAB31681515639DD5D09AEA0A2FAE9BD7B9A",
                         "size":  3157530,
                         "notes":  "New: Steam Deck and Linux players can now update from inside the game, like everyone else"
+                    },
+                    {
+                        "name":  "CU Update 2026-11-25 1833",
+                        "url":  "https://github.com/Menowapi/Capcom-Universe/releases/download/u202611251833/CU-Update-2026-11-25-1833.zip",
+                        "sha256":  "69FEF3D13DF58971670A02A5A58F729E9C3CC3EF7D129933AE128CCA74FE4EE5",
+                        "size":  26692,
+                        "notes":  "Fix: Picking Roll no longer crashes the game"
                     }
                 ]
 }
