@@ -8,6 +8,13 @@
                         "sha256":  "18E419DDF062035DBD8FA5A068579036F141852AD705D6702CF7781BC09CC708",
                         "size":  625471771,
                         "notes":  "New: Online play - host a game or join one from the LOBBY and play your friends\nNew: Versus Co-op - team up with a friend, 2 on 2\nNew: Sentinel joins the roster, plus a new stage: Syphon Pyramid\nNew: Command List and Rematch in the pause menu\nChange: Every fighter updated to their latest version, with a new fight screen\nChange: Lots of fixes and polish all over the game\nChange: Come play online! The game keeps itself up to date, so everyone in the lobby is on the same version\nChange: Seen a desync (the two players see different things)? Report it in bug reports in the CU Discord with both teams, the stage, what happened and about when, and the replay from your save\\replays folder if you have it"
+                    },
+                    {
+                        "name":  "CU Update 2026-11-25 1812",
+                        "url":  "https://github.com/Menowapi/Capcom-Universe/releases/download/u202611251812/CU-Update-2026-11-25-1812.zip",
+                        "sha256":  "B2F3EB3EFD3BED19D5ED99D00A76BAB31681515639DD5D09AEA0A2FAE9BD7B9A",
+                        "size":  3157530,
+                        "notes":  "New: Steam Deck and Linux players can now update from inside the game, like everyone else"
                     }
                 ]
 }
