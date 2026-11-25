@@ -1,5 +1,13 @@
 {
-    "base": "CU Update 2026-11-17 1341",
-    "fullDownload": "(ask Meno for the full Capcom Universe download)",
-    "updates": []
+    "base":  "CU Update 2026-11-17 1341",
+    "fullDownload":  "https://www.mediafire.com/file/fkvvhpn4khrqvjy/Capcom_Universe_Online.7z/file",
+    "updates":  [
+                    {
+                        "name":  "CU Update 2026-11-25 1641",
+                        "url":  "https://github.com/Menowapi/Capcom-Universe/releases/download/u202611251641/CU-Update-2026-11-25-1641.zip",
+                        "sha256":  "18E419DDF062035DBD8FA5A068579036F141852AD705D6702CF7781BC09CC708",
+                        "size":  625471771,
+                        "notes":  "New: Online play - host a game or join one from the LOBBY and play your friends\nNew: Versus Co-op - team up with a friend, 2 on 2\nNew: Sentinel joins the roster, plus a new stage: Syphon Pyramid\nNew: Command List and Rematch in the pause menu\nChange: Every fighter updated to their latest version, with a new fight screen\nChange: Lots of fixes and polish all over the game\nChange: Come play online! The game keeps itself up to date, so everyone in the lobby is on the same version\nChange: Seen a desync (the two players see different things)? Report it in bug reports in the CU Discord with both teams, the stage, what happened and about when, and the replay from your save\\replays folder if you have it"
+                    }
+                ]
 }
