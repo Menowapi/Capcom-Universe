@@ -29,6 +29,13 @@
                         "sha256":  "78EE5625E48323DFBE1951E8512F8EE05B928130B2245802C790B8B2306E8302",
                         "size":  8376,
                         "notes":  "Fix: Everyone online can see each other\u0027s rooms again (removed a few leftover files that made some games look like a different version)"
+                    },
+                    {
+                        "name":  "CU Update 2026-11-26 0040",
+                        "url":  "https://github.com/Menowapi/Capcom-Universe/releases/download/u202611260040/CU-Update-2026-11-26-0040.zip",
+                        "sha256":  "6E89D771DDE567B97E9A1C4A26EC52FCB5DD0CBEF855294F694AAB4C4BDB5F00",
+                        "size":  38825886,
+                        "notes":  "New: Lilith is a hidden character: move right from Morrigan on the select screen (own portrait, select icon and move list)\nNew: PLAYERS ONLINE: see who is online right now and challenge them directly from the lobby\nNew: Your game version shows in the lobby, so you can check you and your opponent are on the same update\nChange: Input delay is AUTO by default (picked from your connection at the start of each match); fixed 0 - 10 is still in Netplay Settings\nChange: New Rollback Smoothing option (on by default): after a rollback, fighters slide into place instead of snapping\nChange: Smoother online matches: the two games keep each other in step during the match, so rollbacks stay small\nChange: Netplay Settings: the port options are gone\nChange: Sentinel updated to Beximus\u0027s latest version (fixes a crash)\nChange: Morrigan: the assist screen shows TYPE A / TYPE B / TYPE G correctly, and she no longer switches to Lilith there\nChange: Morrigan and Lilith: the Down, Down + 2 Kicks transformation is turned off for now\nFix: The round timer no longer draws over the fighters, and it hides along with the life bars\nFix: The WINS counters sit in the right place again"
                     }
                 ]
 }
