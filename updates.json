@@ -22,6 +22,13 @@
                         "sha256":  "69FEF3D13DF58971670A02A5A58F729E9C3CC3EF7D129933AE128CCA74FE4EE5",
                         "size":  26692,
                         "notes":  "Fix: Picking Roll no longer crashes the game"
+                    },
+                    {
+                        "name":  "CU Update 2026-11-25 1929",
+                        "url":  "https://github.com/Menowapi/Capcom-Universe/releases/download/u202611251929/CU-Update-2026-11-25-1929.zip",
+                        "sha256":  "78EE5625E48323DFBE1951E8512F8EE05B928130B2245802C790B8B2306E8302",
+                        "size":  8376,
+                        "notes":  "Fix: Everyone online can see each other\u0027s rooms again (removed a few leftover files that made some games look like a different version)"
                     }
                 ]
 }
