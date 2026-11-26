@@ -36,6 +36,13 @@
                         "sha256":  "6E89D771DDE567B97E9A1C4A26EC52FCB5DD0CBEF855294F694AAB4C4BDB5F00",
                         "size":  38825886,
                         "notes":  "New: Lilith is a hidden character: move right from Morrigan on the select screen (own portrait, select icon and move list)\nNew: PLAYERS ONLINE: see who is online right now and challenge them directly from the lobby\nNew: Your game version shows in the lobby, so you can check you and your opponent are on the same update\nChange: Input delay is AUTO by default (picked from your connection at the start of each match); fixed 0 - 10 is still in Netplay Settings\nChange: New Rollback Smoothing option (on by default): after a rollback, fighters slide into place instead of snapping\nChange: Smoother online matches: the two games keep each other in step during the match, so rollbacks stay small\nChange: Netplay Settings: the port options are gone\nChange: Sentinel updated to Beximus\u0027s latest version (fixes a crash)\nChange: Morrigan: the assist screen shows TYPE A / TYPE B / TYPE G correctly, and she no longer switches to Lilith there\nChange: Morrigan and Lilith: the Down, Down + 2 Kicks transformation is turned off for now\nFix: The round timer no longer draws over the fighters, and it hides along with the life bars\nFix: The WINS counters sit in the right place again"
+                    },
+                    {
+                        "name":  "CU Update 2026-11-26 0139",
+                        "url":  "https://github.com/Menowapi/Capcom-Universe/releases/download/u202611260139/CU-Update-2026-11-26-0139.zip",
+                        "sha256":  "596E5ABFB0087D7D587F0F4555BCC2F9EBA5AC4D431E35F43FF3EED880DC4287",
+                        "size":  8513855,
+                        "notes":  "New: Updates now install by themselves: when a new update is out, the game downloads it, installs it and restarts on its own (nothing to press). This is the last update you install the old way\nFix: Ibuki: fixed a broken check in one of her moves"
                     }
                 ]
 }
