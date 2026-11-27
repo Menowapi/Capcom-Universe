@@ -43,6 +43,13 @@
                         "sha256":  "596E5ABFB0087D7D587F0F4555BCC2F9EBA5AC4D431E35F43FF3EED880DC4287",
                         "size":  8513855,
                         "notes":  "New: Updates now install by themselves: when a new update is out, the game downloads it, installs it and restarts on its own (nothing to press). This is the last update you install the old way\nFix: Ibuki: fixed a broken check in one of her moves"
+                    },
+                    {
+                        "name":  "CU Update 2026-11-26 1915",
+                        "url":  "https://github.com/Menowapi/Capcom-Universe/releases/download/u202611261915/CU-Update-2026-11-26-1915.zip",
+                        "sha256":  "6FD5C377AB11181B505CB9F0240C9D40570C1957AE35AFBA55CAE01D393113CB",
+                        "size":  11069412,
+                        "notes":  "New: Watch online matches live: pick a room in the LOBBY and choose WATCH, even mid-match. You catch up to the current match and watch it a few seconds behind the players\nNew: RANDOM TEST (WATCH \u003e RANDOM TEST): endless 3v3 CPU fights on random stages until you press Esc. Every fighter plays once before anyone repeats\nChange: Select screen: new character portrait art\nFix: The WINS counters and lifebars no longer move after the round ends\nFix: Lilith no longer turns into Morrigan while jumping in; she now uses her own jump-in animation the whole way"
                     }
                 ]
 }
