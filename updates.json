@@ -57,6 +57,13 @@
                         "sha256":  "D6EC1C3210A8ADCD0BF1417C3B3B7102C39141E36B84E0F5975D733F6BD05F69",
                         "size":  51094406,
                         "notes":  "New: Watch PLAYERS ONLINE matches: when two players are in a match, press WATCH on their card to watch it live, a few seconds behind the players\nFix: Chun-Li: fixed animations 17000-17002\nFix: Lei-Lei: fixed a palette issue that kept you from picking her other palettes\nFix: Captain Commando: restored his missing light Captain Corridor (it was missing from the last 2 updates)"
+                    },
+                    {
+                        "name":  "CU Update 2026-11-27 1214",
+                        "url":  "https://github.com/Menowapi/Capcom-Universe/releases/download/u202611271214/CU-Update-2026-11-27-1214.zip",
+                        "sha256":  "466073D530059BC08B0145237102B14AD4D3AFB5EB71E4C98DE8323171A29A1D",
+                        "size":  10217509,
+                        "notes":  "Change: Training: pick any stage, and the attack data (dizzy, damage, total damage, max combo) shows on every stage, not just the training stage\nChange: Sakura: her move list no longer shows Dark Sakura (CPU only for now)\nFix: PLAYERS ONLINE no longer crashes the game when you open it\nFix: CPU teams now always start with exactly one fighter on point (before, CPU teammates could disagree on the start order, leaving nobody on stage or two fighters on point)\nFix: Snap backs: a fighter snapped out no longer comes back in with broken animations after a second snap (most visible with Sentinel\u0027s snap)\nFix: Assist select screen: the cards were drawn too big and too low on Syphon Pyramid\nFix: Assist select screen: TYPE cards no longer blink blank for some characters (Batsu, Chun-Li, C.Viper, Haggar, Hugo, Jin, Pure, Q, Rolento, Yang)\nFix: Sakura: her assist could get stuck offscreen when her point fighter was hit during it, leaving her team with nobody on stage\nFix: Saki: an assist path pointed to a state she doesn\u0027t have"
                     }
                 ]
 }
