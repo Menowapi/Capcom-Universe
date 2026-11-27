@@ -50,6 +50,13 @@
                         "sha256":  "6FD5C377AB11181B505CB9F0240C9D40570C1957AE35AFBA55CAE01D393113CB",
                         "size":  11069412,
                         "notes":  "New: Watch online matches live: pick a room in the LOBBY and choose WATCH, even mid-match. You catch up to the current match and watch it a few seconds behind the players\nNew: RANDOM TEST (WATCH \u003e RANDOM TEST): endless 3v3 CPU fights on random stages until you press Esc. Every fighter plays once before anyone repeats\nChange: Select screen: new character portrait art\nFix: The WINS counters and lifebars no longer move after the round ends\nFix: Lilith no longer turns into Morrigan while jumping in; she now uses her own jump-in animation the whole way"
+                    },
+                    {
+                        "name":  "CU Update 2026-11-26 2239",
+                        "url":  "https://github.com/Menowapi/Capcom-Universe/releases/download/u202611262239/CU-Update-2026-11-26-2239.zip",
+                        "sha256":  "D6EC1C3210A8ADCD0BF1417C3B3B7102C39141E36B84E0F5975D733F6BD05F69",
+                        "size":  51094406,
+                        "notes":  "New: Watch PLAYERS ONLINE matches: when two players are in a match, press WATCH on their card to watch it live, a few seconds behind the players\nFix: Chun-Li: fixed animations 17000-17002\nFix: Lei-Lei: fixed a palette issue that kept you from picking her other palettes\nFix: Captain Commando: restored his missing light Captain Corridor (it was missing from the last 2 updates)"
                     }
                 ]
 }
