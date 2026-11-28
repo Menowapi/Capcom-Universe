@@ -64,6 +64,13 @@
                         "sha256":  "466073D530059BC08B0145237102B14AD4D3AFB5EB71E4C98DE8323171A29A1D",
                         "size":  10217509,
                         "notes":  "Change: Training: pick any stage, and the attack data (dizzy, damage, total damage, max combo) shows on every stage, not just the training stage\nChange: Sakura: her move list no longer shows Dark Sakura (CPU only for now)\nFix: PLAYERS ONLINE no longer crashes the game when you open it\nFix: CPU teams now always start with exactly one fighter on point (before, CPU teammates could disagree on the start order, leaving nobody on stage or two fighters on point)\nFix: Snap backs: a fighter snapped out no longer comes back in with broken animations after a second snap (most visible with Sentinel\u0027s snap)\nFix: Assist select screen: the cards were drawn too big and too low on Syphon Pyramid\nFix: Assist select screen: TYPE cards no longer blink blank for some characters (Batsu, Chun-Li, C.Viper, Haggar, Hugo, Jin, Pure, Q, Rolento, Yang)\nFix: Sakura: her assist could get stuck offscreen when her point fighter was hit during it, leaving her team with nobody on stage\nFix: Saki: an assist path pointed to a state she doesn\u0027t have"
+                    },
+                    {
+                        "name":  "CU Update 2026-11-28 0205",
+                        "url":  "https://github.com/Menowapi/Capcom-Universe/releases/download/u202611280205/CU-Update-2026-11-28-0205.zip",
+                        "sha256":  "6F32996A7CA87E67EFF029CADD6CBFCCAB7070001B8602A57C9395FEF5692B17",
+                        "size":  8694723,
+                        "notes":  "Fix: Lilith: her assist cards no longer show Morrigan (the card flying in on the assist screen, and the chosen card from the second match on)\nFix: F4 / Rematch: the 2nd and 3rd assist cards could no longer be picked after a restart (the teammates were left on CPU input)\nChange: F4 and Rematch keep the assists you picked and skip the assist select screen (go back to the select screen to change them); Rematch also restarts right away instead of reloading the fighters, and both skip the VS screen (a short white fade, then the fight)"
                     }
                 ]
 }
