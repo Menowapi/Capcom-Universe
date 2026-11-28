@@ -71,6 +71,13 @@
                         "sha256":  "6F32996A7CA87E67EFF029CADD6CBFCCAB7070001B8602A57C9395FEF5692B17",
                         "size":  8694723,
                         "notes":  "Fix: Lilith: her assist cards no longer show Morrigan (the card flying in on the assist screen, and the chosen card from the second match on)\nFix: F4 / Rematch: the 2nd and 3rd assist cards could no longer be picked after a restart (the teammates were left on CPU input)\nChange: F4 and Rematch keep the assists you picked and skip the assist select screen (go back to the select screen to change them); Rematch also restarts right away instead of reloading the fighters, and both skip the VS screen (a short white fade, then the fight)"
+                    },
+                    {
+                        "name":  "CU Update 2026-11-28 0959",
+                        "url":  "https://github.com/Menowapi/Capcom-Universe/releases/download/u202611280959/CU-Update-2026-11-28-0959.zip",
+                        "sha256":  "06511705EE85F1B9B1B918D75D0EA2963486A5A323E698AEE40D3198F5A7BBF3",
+                        "size":  12540,
+                        "notes":  "Fix: Saki: her TYPE A assist (Positron Cannon) now hits"
                     }
                 ]
 }
